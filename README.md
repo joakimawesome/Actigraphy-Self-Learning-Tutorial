@@ -1,19 +1,6 @@
 # DL-Actigraphy-Self-Learning-Tutorial
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -100,19 +87,6 @@ I will use the [bycycle](https://bycycle-tools.github.io/bycycle/index.html) Pyt
 
 Once we have computed the bounds for sleep regions, we can apply it back to the original actigraphy data and we do this for all patients
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
